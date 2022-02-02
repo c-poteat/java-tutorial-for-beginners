@@ -1,0 +1,22 @@
+Step 05: Programming Exercise PE-1 (With Solutions)
+At this stage, your smile tells us that you enjoy evaluating Java expressions. What if we tickle your mind a bit, to make sure it hasn't fallen asleep?
+
+Okay, here comes a couple of programming exercises.
+
+Write an expression to calculate the number of minutes in a day.
+
+jshell
+
+60 * 24  = 1440 minutes in a day
+min  hours
+
+jshell> 60 * 24
+$11 ==> 1440
+
+Write an expression to calculate the number of seconds in a day.
+
+60 * 60 * 24 = 86400 seconds in a day
+min  sec  hours
+
+jshell> 60 * 60 * 24
+$12 ==> 86400
